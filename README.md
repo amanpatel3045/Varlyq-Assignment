@@ -1,2 +1,2 @@
-# Varlyq-Assignment
-Varlyq Assignment
+# Blog-Web-App
+Full stack bolg application in MERN
